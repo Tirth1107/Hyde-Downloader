@@ -1,3 +1,13 @@
+# Warning : 
+- This repo is not being maintained by me at all. No new version will ever come in this project this project is closed forever from my side. If any developer want to maintain this small project I am happy to share all the resources he needs from my side I will also give him other code that I have saved for this project. I have also made an website for this same project But I dont want to bear the cost of AWS Server for this project so I am not deploying it. If Anyone Want to work in this project you can change anything you want to change in this project feel free to contact me.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mail : joshitirth1107@gmail.com
+Other Mail : tirthjoshi@thenn.in
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Hyde Downloader
 
 Hyde Downloader is a versatile and modern desktop application for downloading media from popular platforms like YouTube, TikTok, Instagram, Twitter/X, and more. Built with Python and PySide6, it features a beautiful glassmorphism-inspired UI, smooth animations, and asynchronous background operations to ensure the application stays fast and responsive.
